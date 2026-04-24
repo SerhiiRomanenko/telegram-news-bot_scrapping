@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.15.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fs-extra": "^11.3.4",
+    "groq-sdk": "^1.1.2",
+    "input": "^1.0.1",
+    "node-cron": "^4.2.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^6.34.0",
+    "rss-parser": "^3.13.0",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.22",
+    "xml2js": "^0.6.2"
+  }
+}
